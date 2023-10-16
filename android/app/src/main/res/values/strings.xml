@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">LoginGraphBuilder</string>
+<string name="facebook_app_id">342753078283276</string>
+<string name="fb_login_protocol_scheme">fb342753078283276</string>
+<string name="facebook_client_token">f33c40793452b8702e46945fd3f38340</string>
+
+</resources>
+
